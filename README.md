@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Твое фото из Pinterest -->
-<img src="https://i.pinimg.com/736x/87/40/01/874001968846175657077651c654316d.jpg" width="300" style="border-radius: 15px;" />
+<!-- Твое фото теперь загружено локально в репозиторий -->
+<img src="profile-img.jpg" width="300" style="border-radius: 15px;" />
 
 # 𝙲# 𝙿𝚛𝚎-𝙹𝚞𝚗𝚒𝚘𝚛 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 ## 𝙼𝚒𝚗𝚒𝚜𝚑𝟽𝟽𝟽 👋
@@ -21,8 +21,7 @@ I'm a programming enthusiast learning **C#** and exploring the world of **Arch L
 ---
 
 ### 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=Minish777&show_icons=true&theme=dark&hide_border=true&title_color=bf91f3&text_color=c9d1d9&icon_color=bf91f3" />
+<img src="https://github-readme-stats.vercel.app/api?username=Minish777&show_icons=true&theme=dark&hide_border=true&title_color=bf91f3&text_color=c9d1d9&icon_color=bf91f3" alt="Stats" />
 
 ---
 
