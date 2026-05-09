@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Твое фото теперь загружено локально в репозиторий -->
-<img src="https://raw.githubusercontent.com/Minish777/Minish777/main/profile-img.jpg" width="300" style="border-radius: 15px;" />
+<img src="https://raw.githubusercontent.com/Minish777/Minish777/main/profile-img.jpg" width="220" style="border-radius: 15px;" />
 
 # 𝙲# 𝙿𝚛𝚎-𝙹𝚞𝚗𝚒𝚘𝚛 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 ## 𝙼𝚒𝚗𝚒𝚜𝚑𝟽𝟽𝟽 👋
